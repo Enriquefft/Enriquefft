@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Just our of personal curiosity...
 
-[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enriquefft)](https://github.com/anuraghazra/github-readme-stats)
+[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enriquefft&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
