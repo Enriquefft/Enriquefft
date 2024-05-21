@@ -2,7 +2,7 @@
 
 Just gonna throw some keywords i identify with :)
 
-typescript, C++, entrepreneur, MVPs, no-code, python, data analitics, statistics, Linux, innovation, bleeding edge tools, Zig, Lua, tortured poets :), AI.
+typescript wizard, Fullstack frameworks, C++ (modern only pls), entrepreneur, MVPs, no-code, python, data analitics, statistics, Linux, innovation, bleeding edge tools, Zig, Lua, tortured poets :), AI, CI/CD lover.
 
 Just ended a 5 year relationtip with arch linux, now using NixOS.
 <!--
