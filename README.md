@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Just gonna throw some keywords i identify with :)
+
+typescript, C++, entrepreneur, MVPs, no-code, python, data analitics, statistics, Linux, innovation, bleeding edge tools, Zig, Lua, tortured poets :), AI.
+
+Just ended a 5 year relationtip with arch linux, now using NixOS.
 <!--
 **Enriquefft/Enriquefft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
