@@ -2,7 +2,7 @@
 
 Just gonna throw some keywords i identify with :)
 
-typescript wizard, Fullstack frameworks, C++ (modern only pls), entrepreneur, MVPs, no-code, python, data analitics, statistics, Linux, innovation, bleeding edge tools, Zig, Lua, tortured poets :), AI, CI/CD lover, gamedev, mixed feelings about cloud, DX is everything.
+typescript wizard, Fullstack frameworks, C++ (modern only pls), entrepreneur, MVPs, no-code, python, data analitics, statistics, Linux, innovation, bleeding edge tools, Zig, rust, Lua, tortured poets :), AI, CI/CD lover, gamedev, mixed feelings about cloud, DX is everything.
 
 Just ended a 5 year relationtip with arch linux, now using NixOS.
 <!--
