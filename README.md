@@ -10,7 +10,7 @@ I build production-grade AI systems and full-stack applications from the ground 
 * **High-Velocity MVPs:** Built 10+ startup MVPs, including a hyperrealistic LLM persona simulation taken from zero to enterprise demos in 4 days.
 
 ### Technical Stack
-* **Languages:** TypeScript, Python, Go, C++, Rust, SQL.
+* **Languages:** TypeScript, Python, Go, C++, Rust, Zig, SQL.
 * **AI/ML:** RAG, LangGraph, Claude API, MCP integrations (currently building for Google Classroom), Vercel AI SDK.
 * **Infrastructure & Data:** AWS (ECS/ECR), PostgreSQL, Redis, WebSockets, PostHog (2+ years).
 * **Workflow:** NixOS environment. High emphasis on DX and spec-driven development.
