@@ -16,4 +16,4 @@ I build production-grade AI systems and full-stack applications from the ground 
 * **Workflow:** NixOS environment. High emphasis on DX and spec-driven development.
 
 **Currently looking for remote Founding Engineer or AI Product Engineer roles. (also open to relocation)**
-[LinkedIn](https://www.linkedin.com/in/enriqueflores000/) | [Email: enriquefft@404tf.com]
+[Email: enriquefft@404tf.com]
